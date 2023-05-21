@@ -10,7 +10,7 @@ body:
   validations:
     required: true
 - attributes:
-    value: Avant de poster le problème, passez en revue les étapes que vous avez écrites afin de vous assurer
+    value: Avant de poster votre suggestion, passez en revue les étapes que vous avez écrites afin de vous assurer
       que les étapes fournies sont détaillées et claires.
   type: markdown
 description: Créer un rapport d'amélioration
