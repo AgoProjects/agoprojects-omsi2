@@ -12,7 +12,7 @@ body:
   validations:
     required: true
 - attributes:
-    description: Une description précise de votre question.
+    description: Une description précise du bug.
     label: Description
   type: textarea
   validations:
@@ -26,7 +26,7 @@ body:
   validations:
     required: true
 - attributes:
-    description: Une claire et concise description sur le comportement du mod sans bug.
+    description: Une description claire et concise sur le comportement du mod sans bug.
     label: Comportement attendu
   type: textarea
   validations:
