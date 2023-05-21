@@ -21,7 +21,7 @@ body:
     description: Étapes afin de reproduire le bug, veuillez mettre une description claire
       afin de reproduire le bug. Les screenshots
       peuvent être inclus.
-    label: Étapes à refaire - Bugs
+    label: Étapes à refaire
   type: textarea
   validations:
     required: true
@@ -32,7 +32,7 @@ body:
   validations:
     required: true
 - attributes:
-    description: Non obligatoire, mais suggérez un correctif ou une raison pour le bug.
+    description: Non obligatoire, mais si possible suggérez un correctif ou une raison pour le bug.
     label: Solution possible
   type: textarea
   validations:
