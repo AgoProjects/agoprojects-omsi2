@@ -1,0 +1,21 @@
+body:
+- attributes:
+    value: 'Rapport externe aux bugs et à des améliorations.
+      '
+  type: markdown
+- attributes:
+    label: Mod
+    multiple: false
+    options:
+    - 0
+  type: dropdown
+  validations:
+    required: true
+- attributes:
+    description: Une description précise de votre question.
+    label: Description
+  type: textarea
+  validations:
+    required: true
+description: Créer un rapport
+name: Autre
