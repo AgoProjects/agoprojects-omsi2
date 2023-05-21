@@ -1,0 +1,46 @@
+body:
+- attributes:
+    value: 'Ici, vous pouvez faire un rapport de bug, ou nous poser des questions, des éléments à amérliorer etc...
+      '
+  type: markdown
+- attributes:
+    label: Mod
+    multiple: false
+    options:
+    - Sélection
+    - Mercedes-Benz Citaro O530 Fl - RTM
+  type: dropdown
+  validations:
+    required: true
+- attributes:
+    description: Une description précise de votre question.
+    label: Description
+  type: textarea
+  validations:
+    required: true
+- attributes:
+    description: Étapes afin de reproduire le bug, veuillez mettre une description claire
+      afin de refaire ce bug. Les screenshots
+      peuvent être inclus.
+    label: Étapes à refaire - Bugs
+  type: textarea
+  validations:
+    required: false
+- attributes:
+    description: Une claire et concise description sur le comportement sans bug.
+    label: Comportement attendu
+  type: textarea
+  validations:
+    required: false
+- attributes:
+    description: Non obligatoire, mais suggérez un correctif ou une raison pour le bug.
+    label: Solution possible
+  type: textarea
+  validations:
+    required: false
+- attributes:
+    value: Avant de poster le problème, passez en revue les étapes que vous avez écrites afin de vous assurer
+      que les étapes fournies sont détaillées et claires.
+  type: markdown
+description: Créer un rapport de bug
+name: Bug Report
