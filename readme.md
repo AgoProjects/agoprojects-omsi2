@@ -1,4 +1,4 @@
-# Ago'Projects - Tracker d'issues
+# Ago'Projects - Tracker d'issues, suggestion etc.
 
 Sur cette page vous pouvez nous rapporter les bugs que vous avez pu avoir en conduisant nos mods. Vous pouvez aussi nous poser des questions, demander des améliorations.
 
