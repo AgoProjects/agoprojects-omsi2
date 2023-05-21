@@ -1,13 +1,12 @@
 body:
 - attributes:
-    value: 'Ici, vous pouvez faire un rapport de bug, ou nous poser des questions, des éléments à amérliorer etc...
+    value: 'Ici, vous pouvez faire un rapport de bug, ou nous poser des questions, des éléments à améliorer etc...
       '
   type: markdown
 - attributes:
     label: Mod
     multiple: false
     options:
-    - Sélection
     - Mercedes-Benz Citaro O530 Fl - RTM
   type: dropdown
   validations:
@@ -20,14 +19,14 @@ body:
     required: true
 - attributes:
     description: Étapes afin de reproduire le bug, veuillez mettre une description claire
-      afin de refaire ce bug. Les screenshots
+      afin de reproduire le bug. Les screenshots
       peuvent être inclus.
     label: Étapes à refaire - Bugs
   type: textarea
   validations:
     required: false
 - attributes:
-    description: Une claire et concise description sur le comportement sans bug.
+    description: Une claire et concise description sur le comportement du mod sans bug.
     label: Comportement attendu
   type: textarea
   validations:
