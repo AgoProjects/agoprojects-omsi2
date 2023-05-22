@@ -1,14 +1,19 @@
 body:
 - attributes:
-    value: 'Rapport de bug
-      '
+    value: 'Sur cette page vous pouvez décrire un bug recontré durant votre session.'
   type: markdown
 - attributes:
     label: Mod
     multiple: false
     options:
-    - 0
+    - IXL2 - Kit d'optimisation - OMSI 2
   type: dropdown
+  validations:
+    required: true
+- attributes:
+    description: Veuillez mettre la version du mod.
+    label: Version du mod
+  type: textarea
   validations:
     required: true
 - attributes:
