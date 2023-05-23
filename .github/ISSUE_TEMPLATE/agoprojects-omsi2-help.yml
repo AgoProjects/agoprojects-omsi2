@@ -1,16 +1,7 @@
 body:
 - attributes:
-    value: 'Rapport externe aux bugs et à des améliorations.
-      '
+    value: 'Sur cette page vous pouvez nous donner nous poser une question externe aux bugs et améliorations.'
   type: markdown
-- attributes:
-    label: Mod
-    multiple: false
-    options:
-    - 0
-  type: dropdown
-  validations:
-    required: true
 - attributes:
     description: Une description précise de votre question.
     label: Description
