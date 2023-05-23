@@ -1,7 +1,6 @@
 body:
 - attributes:
-    value: 'Suggestion d amélioration.
-      '
+    value: 'Sur cette page vous pouvez nous donner une suggestion ou plusieurs suggestions pour nous améliorer pour un prochain mod.'
   type: markdown
 - attributes:
     description: Une description précise de votre suggestion.
