@@ -1,6 +1,6 @@
 body:
 - attributes:
-    value: 'Sur cette page vous pouvez décrire un bug recontré durant votre session.'
+    value: 'Sur cette page vous pouvez décrire un bug recontré dans un de nos mods.'
   type: markdown
 - attributes:
     label: Mod
@@ -26,7 +26,7 @@ body:
     description: Étapes afin de reproduire le bug, veuillez mettre une description claire
       afin de reproduire le bug. Les screenshots
       peuvent être inclus.
-    label: Étapes à refaire
+    label: Étapes à reproduire
   type: textarea
   validations:
     required: true
