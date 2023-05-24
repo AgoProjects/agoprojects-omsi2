@@ -1,4 +1,4 @@
-![x308](https://github.com/AgoProjects/agoprojects-omsi2/assets/134213319/e60cada4-8932-4c71-ad1f-4011b06af60c)
+![Logo Ago'Projects DEV](https://github.com/AgoProjects/agoprojects-omsi2/assets/134213319/5a04a815-c813-4384-8c19-6cd928097827)
 
 # Ago'Projects - Rapport de bugs, idées de suggestions etc.
 
