@@ -1,4 +1,4 @@
-![Export + Bg2](https://github.com/AgoProjects/agoprojects-omsi2/assets/134213319/e60cada4-8932-4c71-ad1f-4011b06af60c)
+![x308](https://github.com/AgoProjects/agoprojects-omsi2/assets/134213319/e60cada4-8932-4c71-ad1f-4011b06af60c)
 
 # Ago'Projects - Rapport de bugs, idées de suggestions etc.
 
