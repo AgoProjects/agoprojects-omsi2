@@ -5,3 +5,15 @@
 Sur cette page vous pouvez nous rapporter les bugs que vous avez pu avoir en utilisant nos mods, ou vous pouvez aussi nous poser des questions, demander des améliorations etc.
 
 [Ouvrir un rapport](https://github.com/AgoProjects/agoprojects-omsi2/issues/new/choose)
+
+***
+
+# Nos réseaux 
+
+# Nos mods
+
+- [Lite AI - DLC Saint-Servan](https://omsistuff.fr)
+
+# Nos wikis
+
+- Lite AI - DLC Saint-Servan : [Wiki](https://github.com/AgoProjects/agoprojects-omsi2/wiki/Lite-AI---DLC-Saint-Servan)
