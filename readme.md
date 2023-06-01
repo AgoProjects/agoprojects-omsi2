@@ -10,6 +10,15 @@ Sur cette page vous pouvez nous rapporter les bugs que vous avez pu avoir en uti
 
 # Nos réseaux 
 
+<p align="left">
+    <a href="https://twitter.com/ago_projects">
+        <img height="50px" src="https://github.com/AgoProjects/agoprojects-omsi2/assets/46968067/1af885da-9363-4fee-b3e1-2654343859cd" />
+    </a>&nbsp;
+    <a href="https://www.instagram.com/agoprojects_omsi2/">
+        <img height="50px" src="https://github.com/AgoProjects/agoprojects-omsi2/assets/46968067/1e2f99a6-7ac4-4ca0-ab08-d84be60c443a" />
+    </a>&nbsp;
+</p>
+
 # Nos mods
 
 - [Lite AI - DLC Saint-Servan](https://omsistuff.fr)
