@@ -1,4 +1,6 @@
-![Logo Ago'Projects DEV](https://github.com/AgoProjects/agoprojects-omsi2/assets/134213319/5a04a815-c813-4384-8c19-6cd928097827)
+<p align="center">
+  <img width="80%" height="80%" src="https://github.com/AgoProjects/agoprojects-omsi2/assets/46968067/700cc5e6-0783-4556-8c0e-a7858d35401a">
+</p>
 
 # Ago'Projects - Rapport de bugs, idées de suggestions etc.
 
