@@ -8,6 +8,7 @@ body:
     options:
     - IXL2 - Kit d'optimisation - OMSI 2
     - Lite AI - DLC Saint-Servan
+    - Pack de girouettes - Vose-en-Marne
   type: dropdown
   validations:
     required: true
