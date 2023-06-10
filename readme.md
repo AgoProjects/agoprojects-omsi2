@@ -24,7 +24,9 @@ Sur cette page vous pouvez nous rapporter les bugs que vous avez pu avoir en uti
 # Nos mods
 
 - [Lite AI - DLC Saint-Servan](https://omsistuff.fr/pack/lite-ai-dlc-saint-servan/918?ref=copy_url&ref_label=from_logged_user&ref_value=9ec50e64a4a5f03075dab5d6dd063a85)
+- [Pack de girouettes - Vose-en-Marne](https://omsistuff.fr/tous-les-bus-du-monde/pack-girouettes-vose-en-marne/923?ref=copy_url&ref_label=from_logged_user&ref_value=9ec50e64a4a5f03075dab5d6dd063a85)
 
 # Nos wikis
 
 - Lite AI - DLC Saint-Servan : [Wiki](https://github.com/AgoProjects/agoprojects-omsi2/wiki/Lite-AI---DLC-Saint-Servan)
+- Pack de girouettes - Vose-en-Marne : [Wiki](https://github.com/AgoProjects/agoprojects-omsi2/wiki/Pack-de-girouettes-pour-Vose-en-Marne)
