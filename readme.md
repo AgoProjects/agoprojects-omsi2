@@ -25,10 +25,11 @@ Sur cette page vous pouvez nous rapporter les bugs que vous avez pu avoir en uti
 
 - [Lite AI - DLC Saint-Servan](https://omsistuff.fr/pack/lite-ai-dlc-saint-servan/918?ref=copy_url&ref_label=from_logged_user&ref_value=9ec50e64a4a5f03075dab5d6dd063a85)
 - [Pack de girouettes - Vose-en-Marne](https://omsistuff.fr/tous-les-bus-du-monde/pack-girouettes-vose-en-marne/923?ref=copy_url&ref_label=from_logged_user&ref_value=9ec50e64a4a5f03075dab5d6dd063a85)
+- [Pack de girouettes et annonces - ParisGo](https://omsistuff.fr/pack/pack-girouettes-et-annonces-parisgo/961?ref=copy_url&ref_label=from_unknow_user&ref_value=0)
 
 # Nos wikis
 
-- Lite AI - DLC Saint-Servan : [Wiki](https://github.com/AgoProjects/agoprojects-omsi2/wiki/Lite-AI---DLC-Saint-Servan)
-- Pack de girouettes - Vose-en-Marne : [Wiki](https://github.com/AgoProjects/agoprojects-omsi2/wiki/Pack-de-girouettes-pour-Vose-en-Marne)
-- Pack de girouettes et annonces - ParisGo : [Wiki](https://github.com/AgoProjects/agoprojects-omsi2/wiki/Pack-de-girouettes-et-annonces-pour-ParisGo)
-- Annonces sonores pour les SAE français : [Wiki](https://github.com/AgoProjects/agoprojects-omsi2/wiki/Annonces-sonores-sur-les-SAE-fran%C3%A7ais)
+- [Lite AI - DLC Saint-Servan](https://github.com/AgoProjects/agoprojects-omsi2/wiki/Lite-AI---DLC-Saint-Servan)
+- [Pack de girouettes - Vose-en-Marne](https://github.com/AgoProjects/agoprojects-omsi2/wiki/Pack-de-girouettes-pour-Vose-en-Marne)
+- [Pack de girouettes et annonces - ParisGo](https://github.com/AgoProjects/agoprojects-omsi2/wiki/Pack-de-girouettes-et-annonces-pour-ParisGo)
+- [Annonces sonores pour les SAE français](https://github.com/AgoProjects/agoprojects-omsi2/wiki/Annonces-sonores-sur-les-SAE-fran%C3%A7ais)
