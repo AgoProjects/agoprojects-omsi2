@@ -30,3 +30,5 @@ Sur cette page vous pouvez nous rapporter les bugs que vous avez pu avoir en uti
 
 - Lite AI - DLC Saint-Servan : [Wiki](https://github.com/AgoProjects/agoprojects-omsi2/wiki/Lite-AI---DLC-Saint-Servan)
 - Pack de girouettes - Vose-en-Marne : [Wiki](https://github.com/AgoProjects/agoprojects-omsi2/wiki/Pack-de-girouettes-pour-Vose-en-Marne)
+- Pack de girouettes et annonces - ParisGo : [Wiki](https://github.com/AgoProjects/agoprojects-omsi2/wiki/Pack-de-girouettes-et-annonces-pour-ParisGo)
+- Annonces sonores pour les SAE français : [Wiki](https://github.com/AgoProjects/agoprojects-omsi2/wiki/Annonces-sonores-sur-les-SAE-fran%C3%A7ais)
