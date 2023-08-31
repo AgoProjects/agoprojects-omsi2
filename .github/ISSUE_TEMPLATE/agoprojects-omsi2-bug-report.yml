@@ -9,6 +9,9 @@ body:
     - IXL2 - Kit d'optimisation - OMSI 2
     - Lite AI - DLC Saint-Servan
     - Pack de girouettes - Vose-en-Marne
+    - Pack de girouettes et annonces pour ParisGo
+    - Annonces sonores pour les SAE français
+    - Textures optimisées pour le NEW Man Lion's City
   type: dropdown
   validations:
     required: true
