@@ -19,7 +19,7 @@ Sur cette page vous pouvez nous rapporter les bugs que vous avez pu avoir en uti
     <a href="https://www.instagram.com/agoprojects_omsi2/">
         <img height="50px" src="https://github.com/AgoProjects/agoprojects-omsi2/assets/46968067/1e2f99a6-7ac4-4ca0-ab08-d84be60c443a" />
     </a>&nbsp;
-    <a href="[https://www.instagram.com/agoprojects_omsi2/](https://bsky.app/profile/agoprojects.fr)">
+    <a href="https://bsky.app/profile/agoprojects.fr">
         <img height="50px" src="https://github.com/AgoProjects/agoprojects-omsi2/blob/main/images/Bluesky_logo.svg" />
     </a>&nbsp;
 </p>
